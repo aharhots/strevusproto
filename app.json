@@ -1,0 +1,69 @@
+{
+    "name": "Strevusproto",
+    "js": [
+        {
+            "path": "../../sencha-touch-all-debug.js"
+        },
+        {
+            "path": "../../touch-charts.js"
+        },
+        {
+            "path": "app.js",
+            "update": "delta"
+        }
+    ],
+    "css": [
+        {
+            "path": "../../resources/css/sencha-touch.css",
+            "update": "delta"
+        },
+        {
+            "path": "../../resources/css/touch-charts-full.css",
+            "update": "delta"
+        },
+        {
+            "path": "resources/css/app.css",
+            "update": "delta"
+        }
+    ],
+    "appCache": {
+        "cache": [
+            "index.html",
+            "companies.json",
+            "individuals.json",
+            "states.json",
+            "resources/images/circle-touch.png",
+            "resources/images/circle-performance.png",
+            "resources/images/circle-architecture.png",
+            "resources/images/circle-native.png",
+            "resources/images/circle-learn.png",
+            "resources/images/circle-touch.png",
+            "resources/images/noise.gif",
+            "resources/images/sencha_small.png"
+        ],
+        "network": [
+            "*"
+        ],
+        "fallback": []
+    },
+    "extras": [
+        "companies.json",
+        "resources/images",
+        "resources/icons",
+        "resources/loading"
+    ],
+    "archivePath": "archive",
+    "buildPaths": {
+        "testing": "../../deploy/testing/strevusproto",
+        "production": "../../deploy/production/strevusproto",
+        "package": "../../deploy/package/strevusproto",
+        "native": "../../deploy/native/strevusproto"
+    },
+    "buildOptions": {
+        "product": "touch",
+        "minVersion": 3,
+        "debug": false,
+        "logger": "no"
+    },
+    "id": "3a867610-670a-11e1-a90e-4318029d18bb"
+}

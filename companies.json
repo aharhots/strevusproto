@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Strevus",
+        "duns": "123123",
+        "web": "http://www.strevus.com",
+        "color": "286aa6",
+        "addresses": [
+            {
+                "address": "18 Shafarnyanskaya str",
+                "city": "Minsk",
+                "state": "Minsk",
+                "country": "BY"
+            },
+            {
+                "address": "234 Main str",
+                "city": "San Francisco",
+                "state": "CA",
+                "country": "US"
+            },
+            {
+                "address": "2218 E Dortha Ave",
+                "city": "Flagstaff",
+                "state": "AZ",
+                "country": "US"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "duns": "555555",
+        "web": "http://www.apple.com",
+        "color": "646567",
+        "addresses": [
+            {
+                "address": "23 Spartakovskaya Str",
+                "city": "Moscow",
+                "state": "Moscow dist",
+                "country": "RU"
+            },
+            {
+                "address": "7495 Birchmount Road",
+                "city": "Markham",
+                "state": "ON",
+                "country": "CA"
+            },
+            {
+                "address": "159 Samseong-dong",
+                "city": "Seoul",
+                "state": "Gyeonggi",
+                "country": "KR"
+            },
+            {
+                "address": "South NSW 1235",
+                "city": "Sydney",
+                "state": "New South Wales",
+                "country": "AU"
+            },
+            {
+                "address": "3-20-2 Nishi-Shinjuku",
+                "city": "Tokyo",
+                "state": "Kantō",
+                "country": "JP"
+            }
+
+
+
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Coca Cola Bottling Co.",
+        "duns": "999999",
+        "web": "http://www.coca-cola.com",
+        "color": "FE7569",
+        "addresses": [
+            {
+                "address": "933 38th Street North",
+                "city": "Great Falls",
+                "state": "MT",
+                "country": "US"
+            },
+            {
+                "address": "1 Coca Cola Plz NW",
+                "city": "Atlanta",
+                "state": "GA",
+                "country": "US"
+            }
+        ]
+    }
+]
